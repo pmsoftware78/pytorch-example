@@ -1,2 +1,2 @@
-# pytorch-example
-an example of train a segnet using pytorch
+# a very simple pytorch-example
+cloned from https://github.com/sagieppel/Train-Semantic-Segmentation-Net-with-Pytorch-In-50-Lines-Of-Code.git
